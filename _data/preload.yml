@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2023-11-14 11:38:51.301097'
+  iiif: true
+  thumbnail: https://ids.lib.harvard.edu/ids/iiif/18813182/full/!170,170/0/default.jpg
+  title: A Bridge Scene in Holland
+  url: https://iiif.harvardartmuseums.org/manifests/object/298268
+  user: Sabeth1927
 settings: {}
 version: '2.1'

@@ -1,0 +1,37 @@
+---
+canvas: "https://iiif.harvardartmuseums.org/manifests/object/298268/canvas/canvas-18813182"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Lovely shade of blue",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Sabeth1927",
+                "name": "Sabeth1927"
+            },
+            "created": "2023-11-14T11:41:41.647Z",
+            "modified": "2023-11-14T11:41:46.014Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://iiif.harvardartmuseums.org/manifests/object/298268",
+                "type": "Manifest"
+            },
+            "id": "https://iiif.harvardartmuseums.org/manifests/object/298268/canvas/canvas-18813182",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"870.9788360595703\" cy=\"1817.130615234375\" rx=\"448.3916473388672\" ry=\"196.4029541015625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0bfc16c6-4bf8-4814-8ee1-7e96c4816cb8.json",
+    "motivation": "commenting"
+}
